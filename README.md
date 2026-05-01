@@ -1,5 +1,9 @@
 # Estruturas de Dados - Lista de Exercícios
 
+- Autores do Projeto: Letícia Pillar Lisboa e Priscila Ricardo Arruda
+- Disciplina: Estruturas de Dados em Python
+- Professor: Felipe de Morais
+
 Este repositório contém 5 questões práticas relacionadas a estruturas de dados e algoritmos.
 
 ## Estrutura
